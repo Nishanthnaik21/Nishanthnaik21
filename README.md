@@ -18,46 +18,43 @@ My core areas include **Machine Learning** and **Artificial Intelligence**. I sp
 
 ---
 
-### 🛠️ Interactive Tech Stack 
+### 🛠️ Tech Stack 
 
 *(Click on any category below to explore the technologies I work with!)*
 
 <details>
 <summary><b>🤖 AI, Data Science & Computer Vision</b></summary>
-<br>
-<div align="center">
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=py,tensorflow,opencv&perline=10" />
   <br><br>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
   <img src="https://img.shields.io/badge/LLMs_%26_GenAI-000000?style=for-the-badge&logo=openai&logoColor=white" />
-</div>
-<br>
+</p>
 </details>
 
 <details>
 <summary><b>⚙️ Backend & Databases</b></summary>
-<br>
-<div align="center">
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=fastapi,flask,mysql,postgres,mongodb&perline=10" />
-</div>
-<br>
+</p>
 </details>
 
 <details>
 <summary><b>🛠️ Core Programming, Web & DevOps</b></summary>
-<br>
-<div align="center">
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java,c,react,docker,git,github&perline=10" />
-</div>
-<br>
+</p>
 </details>
 
 <br/>
 
 ---
 
-### 🔭 Interactive Project Showcase
+### 🔭Project Showcase
 
 *(Click on any project below to expand and read the details!)*
 
