@@ -11,10 +11,44 @@
 ---
 
 ### 🚀 About Me
+
+<details>
+<summary>👨‍💻 <b>View as Code (Python)</b> <i>(Click to expand)</i></summary>
+
+```python
+class Nishanth:
+    def __init__(self):
+        self.name = "Nishanth Uday Naik"
+        self.role = "Final-Year AI & ML Engineering Student"
+        self.college = "St Joseph Engineering College"
+        self.passion = "Building end-to-end AI systems"
+
+    def current_learning(self):
+        return [
+            "Agentic AI", 
+            "Workflow Orchestration", 
+            "Modern Web Architectures"
+        ]
+
+    def open_to(self):
+        return [
+            "AI/ML Engineer", 
+            "Generative AI Engineer", 
+            "Software Engineer"
+        ]
+```
+
+</details>
+
+<details open>
+<summary>📖 <b>View as Text</b> <i>(Click to collapse)</i></summary>
+<br>
 I'm a final-year **Artificial Intelligence and Machine Learning Engineering** student at St Joseph Engineering College. I am deeply passionate about building end-to-end AI systems, from data wrangling to model deployment.
 
 - 🌱 **Learning:** Agentic AI, workflow orchestration, and modern web architectures
 - 🤝 **Open to:** Roles as an AI/ML Engineer, Generative AI Engineer, or Software Engineer.
+
+</details>
 
 ---
 
