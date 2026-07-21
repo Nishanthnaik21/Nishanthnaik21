@@ -3,8 +3,9 @@
 </h1>
 
 <p align="center">
-  <a href="mailto:nishanthnaik21@gmail.com"><img src="https://img.shields.io/badge/Email-nishanthnaik21%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/nishanth-naik21"><img src="https://img.shields.io/badge/LinkedIn-Nishanth%20Naik-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  📫 <strong>Reach me at:</strong> 
+  <a href="mailto:nishanthnaik21@gmail.com">nishanthnaik21@gmail.com</a> | 
+  <a href="https://linkedin.com/in/nishanth-naik21">LinkedIn</a>
 </p>
 
 ---
@@ -12,8 +13,6 @@
 ### 🚀 About Me
 I'm a final-year **Artificial Intelligence and Machine Learning Engineering** student at St Joseph Engineering College. I am deeply passionate about building end-to-end AI systems, from data wrangling to model deployment.
 
-- 🎓 **Academics:** 9.18 / 10 CGPA
-- 💼 **Current Role:** IBM SkillsBuild Academic Intern
 - 🌱 **Learning:** Agentic AI, workflow orchestration, and modern web architectures
 - 🤝 **Open to:** Roles as an AI/ML Engineer, Generative AI Engineer, or Software Engineer.
 
@@ -21,39 +20,17 @@ I'm a final-year **Artificial Intelligence and Machine Learning Engineering** st
 
 ### 🛠️ Tech Stack 
 
-*(Click on the categories to reveal my skills!)*
-
-<details>
-  <summary><b>👨‍💻 Programming Languages</b></summary>
-  <br/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</details>
-
-<details>
-  <summary><b>🧠 AI, Machine Learning & Computer Vision</b></summary>
-  <br/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
-  <img src="https://img.shields.io/badge/LLMs_%26_GenAI-000000?style=for-the-badge&logo=openai&logoColor=white" />
-</details>
-
-<details>
-  <summary><b>⚙️ Backend, Databases & Tools</b></summary>
-  <br/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</details>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,c,react,mysql,postgres,mongodb,docker,git,github,fastapi,flask,tensorflow,opencv&perline=8" />
+  </a>
+</div>
+<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black" />
+  <img src="https://img.shields.io/badge/LLMs_%26_GenAI-000000?style=flat-square&logo=openai&logoColor=white" />
+</div>
 
 <br/>
 
