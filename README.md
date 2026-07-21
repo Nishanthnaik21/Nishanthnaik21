@@ -11,26 +11,47 @@
 ---
 
 ### 🚀 About Me
-I'm a final-year **Artificial Intelligence and Machine Learning Engineering** student at St Joseph Engineering College. I am deeply passionate about building end-to-end AI systems, from data wrangling to model deployment.
 
-- 🌱 **Learning:** Agentic AI, workflow orchestration, and modern web architectures
-- 🤝 **Open to:** Roles as an AI/ML Engineer, Generative AI Engineer, or Software Engineer.
+Hi! I'm a final-year engineering student at St Joseph Engineering College, deeply passionate about using data and algorithms to solve real-world problems. 
+
+My core areas include **Machine Learning** and **Artificial Intelligence**. I specialize in **Computer Vision**, **Generative AI** (including RAG systems), and building scalable **End-to-End Systems**—taking projects all the way from data processing and model architecture to full-stack deployment.
 
 ---
 
-### 🛠️ Tech Stack 
+### 🛠️ Interactive Tech Stack 
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,c,react,mysql,postgres,mongodb,docker,git,github,fastapi,flask,tensorflow,opencv&perline=8" />
-  </a>
-</div>
+*(Click on any category below to explore the technologies I work with!)*
+
+<details>
+<summary><b>🤖 AI, Data Science & Computer Vision</b></summary>
 <br>
 <div align="center">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black" />
-  <img src="https://img.shields.io/badge/LLMs_%26_GenAI-000000?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,opencv&perline=10" />
+  <br><br>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
+  <img src="https://img.shields.io/badge/LLMs_%26_GenAI-000000?style=for-the-badge&logo=openai&logoColor=white" />
 </div>
+<br>
+</details>
+
+<details>
+<summary><b>⚙️ Backend & Databases</b></summary>
+<br>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,mysql,postgres,mongodb&perline=10" />
+</div>
+<br>
+</details>
+
+<details>
+<summary><b>🛠️ Core Programming, Web & DevOps</b></summary>
+<br>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,c,react,docker,git,github&perline=10" />
+</div>
+<br>
+</details>
 
 <br/>
 
